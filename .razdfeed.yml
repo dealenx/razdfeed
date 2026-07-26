@@ -2,5 +2,8 @@ name: "dealenx"
 description: "Блог о разработке, AI и инструментах"
 language: ru
 
+repo: dealenx/dealenx
+category: Announcements
+
 telegram:
   channel: dealenxdev
