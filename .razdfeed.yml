@@ -1,1 +1,6 @@
-razdfeed:
+name: "dealenx"
+description: "Блог о разработке, AI и инструментах"
+language: ru
+
+telegram:
+  channel: dealenxdev
