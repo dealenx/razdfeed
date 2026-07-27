@@ -1,2 +1,5 @@
-discussions: https://github.com/dealenx/dealenx/discussions/categories/announcements
-telegram: https://t.me/dealenxdev
+sources:
+  - type: github
+    url: https://github.com/dealenx/dealenx/discussions/categories/announcements
+  - type: telegram
+    url: https://t.me/dealenxdev
